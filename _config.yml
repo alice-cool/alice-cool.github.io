@@ -1,7 +1,10 @@
 theme: jekyll-theme-minimal
 title: Yurong's Homepage
-title-img: "./yurong.jpeg"
-round-title-img: true
+
+#Theming
+theme:
+
+title-img: ./yurong.jpeg
 
 # --- List of links in the navigation bar --- #
 
