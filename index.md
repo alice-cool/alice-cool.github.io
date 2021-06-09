@@ -1,8 +1,6 @@
-## Yurong Chen' Homepage
+## Welcome to Yurong Chen' Homepage
 
-You can use the [editor on GitHub](https://github.com/YurongChen1998/yurong1998.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D Student at the National Engineering Lab of Robot Visual Perception and Control Technology led by Prof. Yaonan Wang and Prof. Hui Zhang and the Hunan University. My research interests include medical image processing, probabilistic machine learning.
 
 ### Markdown
 
