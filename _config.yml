@@ -15,3 +15,8 @@ flickr_username: todaviasostenible
 # pinterest_username: jekyll
 youtube_username: UCDf_rncabeuc7WcrzqqLCrg
 # googleplus_username: +jekyll
+
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-seo-tag
