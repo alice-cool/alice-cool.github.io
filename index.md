@@ -1,6 +1,6 @@
 ## Welcome to Yurong Chen' Homepage
 
-I am now a Ph.D Student at the National Engineering Lab of Robot Visual Perception and Control Technology led by Prof. Yaonan Wang and Prof. Hui Zhang. My research interests include medical image processing, probabilistic machine learning.
+#### I am now a Ph.D Student at the National Engineering Lab of Robot Visual Perception and Control Technology led by Prof. Yaonan Wang and Prof. Hui Zhang. My research interests include medical image processing, probabilistic machine learning.
 
 ### Markdown
 
