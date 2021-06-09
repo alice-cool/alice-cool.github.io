@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Yurong's Homepage
-title-img: "yurong.jpeg"
+title-img: "./yurong.jpeg"
 round-title-img: true
