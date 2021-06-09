@@ -2,11 +2,15 @@ theme: jekyll-theme-minimal
 title: Yurong's Homepage
 title-img: "../img/yurong.png"
 
-# --- List of links in the navigation bar --- #
-
-nav:
-  - About Me: "aboutme"
-  - Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  - Author's home: "https://deanattali.com"
+# social links
+twitter_username: todaviasomos
+github_username:  m040601
+rss: rss
+# dribbble_username: jekyll
+facebook_username: todaviasociacion
+flickr_username: todaviasostenible
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+youtube_username: UCDf_rncabeuc7WcrzqqLCrg
+# googleplus_username: +jekyll
