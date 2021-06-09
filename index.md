@@ -20,3 +20,6 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " Chinese Automation Congress (CAC), 2019.
 
 - Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," IEEE Access, 2019.
+
+## News
+- 2021-05-22 I attended the CSIG Summit Forum.
