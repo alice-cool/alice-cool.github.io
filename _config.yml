@@ -1,22 +1,3 @@
 theme: jekyll-theme-minimal
 logo: img/yurong.png
 title: Yurong's Homepage
-title-img: "../img/yurong.png"
-
-# social links
-twitter_username: todaviasomos
-github_username:  m040601
-rss: rss
-# dribbble_username: jekyll
-facebook_username: todaviasociacion
-flickr_username: todaviasostenible
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-youtube_username: UCDf_rncabeuc7WcrzqqLCrg
-# googleplus_username: +jekyll
-
-plugins:
-  - jekyll-archives
-  - jekyll-feed
-  - jekyll-seo-tag
