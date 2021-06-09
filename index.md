@@ -6,3 +6,6 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Contact Me
 - Email: chenyurong1998 AT outlook.com
+
+## Publications
+Gooogle Scholar[https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ]
