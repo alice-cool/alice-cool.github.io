@@ -22,4 +22,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," IEEE Access, 2019.
 
 ## News
-- 2021-05-22: I attended the CSIG Summit Forum.
+- 2021-05-22: I attended the CSIG Summit Forum (Changsha, China).
+- 2020-11-06: I attended the China Automation Congress (Shanghai, China).
+- 2020-10-16: I attended the Pattern Recognition and Computer Vision (Nanjin, China).
+- 2020-04-03: I attended the ISBI (Virtual Conference).
+- 2018-12-01: I attended the the China Automation Congress (Xian, China).
