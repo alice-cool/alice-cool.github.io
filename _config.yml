@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 logo: img/yurongchen.png
-description:
-  Ph.D Student;
-  IEEE Member;
-  CSIG Student Member;
+description: |
+  Ph.D Student |
+  IEEE Member |
+  CSIG Student Member |
 title: Yurong's Homepage
 minimal_mistakes_skin: "air"
 
