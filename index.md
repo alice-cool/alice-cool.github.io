@@ -21,6 +21,9 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," IEEE Access, 2019.
 
+## Learning Blog
+- 2021-06-16: I updated the [Netwon's Method](https://github.com/YurongChen1998/Newton-s-Method/tree/main) with python implementation.
+
 ## News
 - 2021-05-22: I attended the CSIG Summit Forum (Changsha, China).
 - 2020-11-06: I attended the China Automation Congress (Shanghai, China).
