@@ -22,7 +22,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," IEEE Access, 2019.
 
 ## Study Blog
-- 2021-06-19: I updated the [Naive Bayes](https://blog.csdn.net/weixin_43120238/article/details/118058815) with [python implementation](https://github.com/YurongChen1998/naive-bayes-classifier/tree/main)
+- 2021-08-05: I updated the implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
+- 2021-06-19: I updated the [Naive Bayes](https://blog.csdn.net/weixin_43120238/article/details/118058815) with [python implementation](https://github.com/YurongChen1998/naive-bayes-classifier/tree/main).
 - 2021-06-16: I updated the Netwon's Method with [python implementation](https://github.com/YurongChen1998/Newton-s-Method/tree/main).
 - 2021-06-13: I updated the paper talk slides ("[GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-13)").
 - 2021-06-06: I updated the paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
