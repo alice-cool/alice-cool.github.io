@@ -9,7 +9,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," 2021.
+- Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," IEEE Transactions on Intelligent Transportation Systems, 2021.
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," IEEE Transactions on Medical Imaging, vol. 40, no. 3, pp. 1032-1041, 2021.
 
