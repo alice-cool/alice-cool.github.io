@@ -40,3 +40,4 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Interesting Reading
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
+- [What is a PhD?](https://www.findaphd.com/advice/finding/what-is-a-phd.aspx)
