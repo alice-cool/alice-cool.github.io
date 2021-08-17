@@ -38,5 +38,5 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - 2020-04-03: I attended the ISBI (Virtual Conference).
 - 2018-12-01: I attended the the China Automation Congress (Xian, China).
 
-## Essays
-- [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw) (转载)
+## Interesting Reading
+- [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
