@@ -9,19 +9,19 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," IEEE Transactions on Intelligent Transportation Systems, 2021.
+- Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," IEEE Transactions on Medical Imaging, vol. 40, no. 3, pp. 1032-1041, 2021.
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021.
 
-- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," University of Pittsburgh, 2020.
+- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020.
 
-- **Yurong Chen**, Haoteng Tang, Lei Guo, Jamie C Peven, Heng Huang, Alex D Leow, Melissa Lamar, Liang Zhan, "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," IEEE 17th International Symposium on Biomedical Imaging (ISBI), 2020.
+- **Yurong Chen**, Haoteng Tang, Lei Guo, Jamie C Peven, Heng Huang, Alex D Leow, Melissa Lamar, Liang Zhan, "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
 
-- Jamie C Peven, **Yurong Chen**, Lei Guo, Liang Zhan, Elizabeth A Boots, Catherine Dion, David J Libon, Kenneth M Heilman, Melissa Lamar, "The oblique effect: The relationship between profiles of visuospatial preference, cognition, and brain connectomics in older adults," Neuropsychologia, 2019.
+- Jamie C Peven, **Yurong Chen**, Lei Guo, Liang Zhan, Elizabeth A Boots, Catherine Dion, David J Libon, Kenneth M Heilman, Melissa Lamar, "The oblique effect: The relationship between profiles of visuospatial preference, cognition, and brain connectomics in older adults," _Neuropsychologia_, 2019.
 
-- Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " Chinese Automation Congress (CAC), 2019.
+- Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
 
-- Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," IEEE Access, 2019.
+- Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
 
 ## Study Blog
 - 2021-08-25: I updated the [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
