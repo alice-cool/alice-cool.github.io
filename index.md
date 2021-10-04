@@ -10,6 +10,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
+- Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, Hang Zhong, Zhihong Huang, Yaonan Wang, "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
+
 - **Yurong Chen**, Hui Zhang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021.
 
 - Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
