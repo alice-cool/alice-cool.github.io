@@ -10,6 +10,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
+- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, Yaonan Wang, Q.M. Jonathan Wu, "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, accepted, 2021.
+- 
 - Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, Hang Zhong, Zhihong Huang, Yaonan Wang, "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
 
 - **Yurong Chen**, Hui Zhang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021.
