@@ -31,6 +31,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
 
 ## Study Blog
+- 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://drive.google.com/drive/folders/1YFuZqc0KpYOacBSHrWwbG3I8c_PUUVSu?usp=sharing).
 - 2021-10-11: I updated the paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
 - 2021-08-25: I updated the [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
 - 2021-08-23: I updated the [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
