@@ -14,21 +14,21 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021.
 
+- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020.
+
+- **Yurong Chen**, Haoteng Tang, Lei Guo, Jamie C Peven, Heng Huang, Alex D Leow, Melissa Lamar, Liang Zhan, "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
+
 - Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
+
+- Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
 
 - Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, Yaonan Wang, Q.M. Jonathan Wu, "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, accepted, 2021.
 
 - Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, Hang Zhong, Zhihong Huang, Yaonan Wang, "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
 
-- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020.
-
-- **Yurong Chen**, Haoteng Tang, Lei Guo, Jamie C Peven, Heng Huang, Alex D Leow, Melissa Lamar, Liang Zhan, "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
-
 - Jamie C Peven, **Yurong Chen**, Lei Guo, Liang Zhan, Elizabeth A Boots, Catherine Dion, David J Libon, Kenneth M Heilman, Melissa Lamar, "The oblique effect: The relationship between profiles of visuospatial preference, cognition, and brain connectomics in older adults," _Neuropsychologia_, 2019.
 
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
-
-- Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
 
 ## Study Blog
 - 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://drive.google.com/drive/folders/1YFuZqc0KpYOacBSHrWwbG3I8c_PUUVSu?usp=sharing).
