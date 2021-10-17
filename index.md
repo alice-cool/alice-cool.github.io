@@ -33,7 +33,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 ## Study Blog
 - 2021-10-17: I updated the implementation of Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
 - 2021-10-16: I updated the implementation of Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
-- 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://drive.google.com/drive/folders/1YFuZqc0KpYOacBSHrWwbG3I8c_PUUVSu?usp=sharing).
+- 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset).
 - 2021-10-11: I updated the paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
 - 2021-08-25: I updated the [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
 - 2021-08-23: I updated the [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
