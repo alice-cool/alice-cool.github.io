@@ -22,7 +22,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
 
-- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, Yaonan Wang, Q.M. Jonathan Wu, "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, accepted, 2021.
+- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, Yaonan Wang, Q.M. Jonathan Wu, "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, 2021.
 
 - Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, Hang Zhong, Zhihong Huang, Yaonan Wang, "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
 
