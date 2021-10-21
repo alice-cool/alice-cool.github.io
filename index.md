@@ -31,6 +31,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
 
 ## Study Blog
+- 2021-10-21: I updated the the paper talk: [Learned Robust PCA](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx).
 - 2021-10-19: I updated the implementation of Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
 - 2021-10-17: I updated the implementation of Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
 - 2021-10-16: I updated the implementation of Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
