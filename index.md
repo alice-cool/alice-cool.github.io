@@ -10,7 +10,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Hui Zhang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021.
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021.
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021.
 
