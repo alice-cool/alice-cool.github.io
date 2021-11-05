@@ -1,6 +1,6 @@
 ## Welcome to Yurong Chen' Homepage 陈煜嵘
 
-#### I am now a Ph.D Student at the National Engineering Lab  of Hunan University led by Prof. Yaonan Wang and Prof. Hui Zhang. My research interests include hyperspectral imaging, probabilistic machine learning.
+#### I am now a Ph.D Student at the National Engineering Lab  of Hunan University led by Prof. Yaonan Wang and Prof. Hui Zhang. My research interests include hyperspectral imaging, machine learning.
 
 Previously, I graduated with a M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
