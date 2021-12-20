@@ -1,6 +1,6 @@
 ## Welcome to Yurong Chen' Homepage 陈煜嵘
 
-#### I am now a Ph.D Student at the National Engineering Lab  of Hunan University led by Prof. Yaonan Wang and Prof. Hui Zhang. My research interests include hyperspectral imaging, statistical machine learning.
+#### I am now a Ph.D Student at Hunan University led by Prof. Yaonan Wang and Prof. Hui Zhang. My research interests include hyperspectral imaging, statistical machine learning.
 
 Previously, I graduated with a M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
@@ -10,11 +10,15 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021.
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021. 
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021.
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021. 
 
-- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020.
+- **Yurong Chen**, "Towards to Robust and Generalized Medical Image Segmentation Framework," _arXiv:2108.03823 _, 2021. 
+
+- **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021. 
+
+- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020. 
 
 - **Yurong Chen**, Haoteng Tang, Lei Guo, Jamie C Peven, Heng Huang, Alex D Leow, Melissa Lamar, Liang Zhan, "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
 
