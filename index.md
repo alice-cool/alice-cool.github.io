@@ -14,6 +14,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021. 
 
+- **Yurong Chen**, "Projected Sliced Wasserstein Autoencoder-based Hyperspectral Images Anomaly Detection," _arxiv:2112.11243_, 2021.
+
 - **Yurong Chen**, "Towards to Robust and Generalized Medical Image Segmentation Framework," _arXiv:2108.03823_, 2021. 
 
 - **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021. 
