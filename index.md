@@ -37,28 +37,30 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
 
 ## Study Blog
-- 2021-10-21: I updated the the paper talk Learned Robust PCA ([video](https://www.bilibili.com/video/BV1Xq4y1d78f?share_source=copy_web), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx)).
-- 2021-10-19: I updated the implementation of Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
-- 2021-10-17: I updated the implementation of Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
-- 2021-10-16: I updated the implementation of Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
+- 2021-10-21: The paper talk Learned Robust PCA ([video](https://www.bilibili.com/video/BV1Xq4y1d78f?share_source=copy_web), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx)).
+- 2021-10-19: The implementation of Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
+- 2021-10-17: The implementation of Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
+- 2021-10-16: The implementation of Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
 - 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset).
-- 2021-10-11: I updated the paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
-- 2021-08-25: I updated the [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
-- 2021-08-23: I updated the [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
-- 2021-08-23: I updated the [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
-- 2021-08-09: I updated the [Hilbert Schmidt Indepence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
-- 2021-08-05: I updated the implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
-- 2021-06-19: I updated the [Naive Bayes](https://blog.csdn.net/weixin_43120238/article/details/118058815) with [python implementation](https://github.com/YurongChen1998/naive-bayes-classifier/tree/main).
-- 2021-06-16: I updated the Netwon's Method with [python implementation](https://github.com/YurongChen1998/Newton-s-Method/tree/main).
-- 2021-06-13: I updated the paper talk slides ("[GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-13)").
-- 2021-06-06: I updated the paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
+- 2021-10-11: The paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
+- 2021-08-25: The [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
+- 2021-08-23: The [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
+- 2021-08-23: The [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
+- 2021-08-09: The [Hilbert Schmidt Indepence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
+- 2021-08-05: The implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
+- 2021-06-19: The [Naive Bayes](https://blog.csdn.net/weixin_43120238/article/details/118058815) with [python implementation](https://github.com/YurongChen1998/naive-bayes-classifier/tree/main).
+- 2021-06-16: The Netwon's Method with [python implementation](https://github.com/YurongChen1998/Newton-s-Method/tree/main).
+- 2021-06-13: The paper talk slides ("[GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-13)").
+- 2021-06-06: The paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
 
 ## News
+- 2021-12-26: I attended the 11th International Conference on Image and Graphics (ICIG) (Haikou, China).
+- 2021-09-29: I have a talk in the CSIG graduated forum ([Online](https://www.bilibili.com/video/BV1nU4y1w7Ma/)).
 - 2021-05-22: I attended the CSIG Summit Forum (Changsha, China).
-- 2020-11-06: I attended the China Automation Congress (Shanghai, China).
-- 2020-10-16: I attended the Pattern Recognition and Computer Vision (Nanjin, China).
+- 2020-11-06: I attended the China Automation Congress (CAC) (Shanghai, China).
+- 2020-10-16: I attended the Pattern Recognition and Computer Vision (PRCV) (Nanjin, China).
 - 2020-04-03: I attended the ISBI (Virtual Conference).
-- 2018-12-01: I attended the the China Automation Congress (Xian, China).
+- 2018-12-01: I attended the the China Automation Congress (CAC) (Xian, China).
 
 ## Interesting Reading
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
