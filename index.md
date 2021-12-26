@@ -55,6 +55,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## News
 - 2021-12-26: I attended the ICIG (Haikou, China).
+- 2021-11-13: I got an internship at [Truking Co., Inc](https://www.truking.com/index.html).
 - 2021-09-29: I had a talk in the CSIG graduated forum ([Online](https://www.bilibili.com/video/BV1nU4y1w7Ma/)).
 - 2021-05-22: I attended the CSIG summit forum (Changsha, China).
 - 2020-11-06: I attended the CAC (Shanghai, China).
