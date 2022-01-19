@@ -6,7 +6,6 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Contact Me
 - Email: chenyurong1998 AT outlook.com
-- [Download Yurong's CV](https://github.com/YurongChen1998/yurong-lib/raw/main/Essays/Yurong%20Chen-CV-Eng-2021.pdf)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
