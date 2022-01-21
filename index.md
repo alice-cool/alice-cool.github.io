@@ -63,6 +63,6 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - 2020-04-03: I attended the ISBI (Virtual Conference).
 - 2018-12-01: I attended the CAC (Xian, China).
 
-## Interesting Reading
+## Miscellaneous
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
 - [What is a PhD?](https://www.findaphd.com/advice/finding/what-is-a-phd.aspx)
