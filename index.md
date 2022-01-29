@@ -36,6 +36,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
 
 ## Study Blog
+- 2022-01-29: he implementation of Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
+- 2022-01-26: The implementation of MDS and Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
 - 2022-01-21: Talk about thhe PCA, Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/pca)).
 - 2021-10-21: The paper talk Learned Robust PCA ([video](https://www.bilibili.com/video/BV1Xq4y1d78f?share_source=copy_web), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx)).
 - 2021-10-19: The implementation of Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
