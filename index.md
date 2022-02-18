@@ -36,13 +36,16 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
 
 ## Study Blog
-- 2022-01-29: he implementation of Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
-- 2022-01-26: The implementation of MDS and Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
-- 2022-01-21: Talk about thhe PCA, Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/pca)).
-- 2021-10-21: The paper talk Learned Robust PCA ([video](https://www.bilibili.com/video/BV1Xq4y1d78f?share_source=copy_web), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx)).
-- 2021-10-19: The implementation of Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
-- 2021-10-17: The implementation of Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
-- 2021-10-16: The implementation of Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
+- 2022-02-18: The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
+- 2022-02-18: The implementation of the Supervised PCA: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Supervised%20PCA).
+- 2022-02-01: The implementation of the Spectral Cluster: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Spectral%20Cluster).
+- 2022-01-29: The implementation of the Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
+- 2022-01-26: The implementation of the MDS and the Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
+- 2022-01-21: Talk about the PCA, Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/pca)).
+- 2021-10-21: The paper talk the Learned Robust PCA ([video](https://www.bilibili.com/video/BV1Xq4y1d78f?share_source=copy_web), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx)).
+- 2021-10-19: The implementation of the Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
+- 2021-10-17: The implementation of the Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
+- 2021-10-16: The implementation of the Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
 - 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset).
 - 2021-10-11: The paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
 - 2021-08-25: The [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
