@@ -38,6 +38,7 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
 
 ## Study Blog
+- 2022-10-16: The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
 - 2022-02-18: The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
 - 2022-02-18: The implementation of the Supervised PCA: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Supervised%20PCA).
 - 2022-02-01: The implementation of the Spectral Cluster: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Spectral%20Cluster).
