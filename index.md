@@ -78,16 +78,5 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - 2021-06-13: The paper talk slides ("[GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-13)").
 - 2021-06-06: The paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
 
-## News
-- 2021-12-26: I attended the ICIG (Haikou, China).
-- 2021-11-13: I got an internship at [Truking Co., Inc](https://www.truking.com/index.html).
-- 2021-09-29: I had a talk in the CSIG graduated forum ([Online](https://www.bilibili.com/video/BV1nU4y1w7Ma/)).
-- 2021-05-22: I attended the CSIG summit forum (Changsha, China).
-- 2020-11-06: I attended the CAC (Shanghai, China).
-- 2020-10-16: I attended the PRCV (Nanjin, China).
-- 2020-04-03: I attended the ISBI (Virtual Conference).
-- 2018-12-01: I attended the CAC (Xian, China).
-
 ## Miscellaneous
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
-- [What is a PhD?](https://www.findaphd.com/advice/finding/what-is-a-phd.aspx)
