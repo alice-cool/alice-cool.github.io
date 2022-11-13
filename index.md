@@ -11,31 +11,48 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, Weixin Peng, Wandong Zhang, Q.M. Jonathan Wu, Yimin Yang, "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021. 
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement_, 2022. 
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, Yimin Yang, Xianen Zhou, QM Jonathan Wu, "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021. 
+- **陈煜嵘**， 王耀南， 张辉， 曹意宏， 刘立柱, "医学高光谱显微成像与智能分析关键技术研究及应用," _人工智能_, 2022.
+
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021. 
+
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021. 
 
 - **Yurong Chen**, "Projected Sliced Wasserstein Autoencoder-based Hyperspectral Images Anomaly Detection," _arxiv:2112.11243_, 2021.
-
-- **Yurong Chen**, "Towards to Robust and Generalized Medical Image Segmentation Framework," _arXiv:2108.03823_, 2021. 
 
 - **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021. 
 
 - **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020. 
 
-- **Yurong Chen**, Haoteng Tang, Lei Guo, Jamie C Peven, Heng Huang, Alex D Leow, Melissa Lamar, Liang Zhan, "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
+- **Yurong Chen**, Haoteng Tang, Lei Guo, et al., "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
 
-- Hui Zhang, Yanan Song, **Yurong Chen***, Hang Zhong, Li Liu, Yaonan Wang, Thangarajah Akilan, QM Jonathan Wu, "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
+- Hui Zhang, **Yurong Chen***, Yanan Song, et al., "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
 
-- Hui Zhang, **Yurong Chen***, Yanan Song, Zhenlin Xiong, Yimin Yang, QM Jonathan Wu, "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
+- Jamie C Peven, **Yurong Chen**, Lei Guo, et al., "The oblique effect: The relationship between profiles of visuospatial preference, cognition, and brain connectomics in older adults," _Neuropsychologia_, 2019.
 
-- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, Yaonan Wang, Q.M. Jonathan Wu, "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, 2021.
+- Hui Zhang, Yanan Song, **Yurong Chen**, et al., "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems_, 2021.
 
-- Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, Hang Zhong, Zhihong Huang, Yaonan Wang, "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
+- Ating Yin, Yaonan Wang, **Yurong Chen**, et al., "SSAPN: Spectral-Spatial Anomaly Perception Network for Unsupervised Vaccine Detection," _IEEE Transactions on Industrial Informatics_, 2022.
 
-- Jamie C Peven, **Yurong Chen**, Lei Guo, Liang Zhan, Elizabeth A Boots, Catherine Dion, David J Libon, Kenneth M Heilman, Melissa Lamar, "The oblique effect: The relationship between profiles of visuospatial preference, cognition, and brain connectomics in older adults," _Neuropsychologia_, 2019.
+- Hui Zhang, Liuchen Wu, **Yurong Chen**, et al., "Attention-Guided Multitask Convolutional Neural Network for Power Line Parts Detection," _IEEE Transactions on Instrumentation and Measurement_, 2022.
 
-- Zhenlin Xiong, Hui Zhang, **Yurong Chen**, Yanan Song, "Deep Ensemble Learning Network for Kidney Lesion Detection, " _Chinese Automation Congress (CAC)_, 2019.
+- 张辉， 张邹铨， **陈煜嵘**， 吴天月， 钟杭， 王耀南, "工业铸件缺陷无损检测技术的应用进展与展望," _自动化学报_, 2022.
+
+- Weixing Peng, Yaonan Wang, Hui Zhang, **Yurong Chen**, et al., "Robust Multi-Point-Sets Registration for Free-Form Surface Based on Probability," _IEEE Transactions on Industrial Electronics_, 2022.
+
+- Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Review on the COVID-19 pandemic prevention and control system based on AI," _Engineering Applications of Artificial Intelligence_, 2022.
+
+- Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention," _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2022.
+
+- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, et al., "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, 2021.
+
+- Hui Zhang, Jiaxuan Liu, Tianyue Wu, **Yurong Chen**, et al., "JIANet: Jigsaw-Invariant Self-supervised Learning of Auto-encoder Based Reconstruction for Melanoma Segmentation,"  _IEEE Transactions on Instrumentation & Measurement_, 2022.
+
+- Xuesan Su, Yaonan Wang, Jianxu Mao, **Yurong Chen**, et al., "A Review of Pharmaceutical Robot based on Hyperspectral Technology," _Journal of Intelligent & Robotic Systems_, 2022.
+
+- Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, et al., "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
+
 
 ## Study Blog
 - 2022-10-16: The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
