@@ -1,8 +1,8 @@
 ## Welcome to Yurong Chen' Homepage 陈煜嵘
 
-*Learning without reasoning leads to confusion, thinking without learning is wasting effort.*  
+*"困时切莫间断,熬过此关,便可少进.再进在困,再困再奋,自有亨通精进之日."*  
 
-#### I am now a Ph.D Student supervised by Prof. Yaonan Wang and Prof. Hui Zhang at Hunan University. My research interests include hyperspectral imaging, statistical machine learning.
+#### I am now a Ph.D student supervised by Prof. Yaonan Wang( 王耀南) and Prof. Hui Zhang (张辉) at Hunan University. My research interests include hyperspectral computational imaging, statistical machine learning (高光谱计算成像与机器学习算法).
 
 Previously, I graduated with a M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
