@@ -79,4 +79,5 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - 2021-06-06: The paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
 
 ## Miscellaneous
+- [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
