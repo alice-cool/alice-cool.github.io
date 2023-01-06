@@ -18,3 +18,6 @@
 ---
 - **岳麓山南门**
 ![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Hunan%20University/DSC01047.JPG)
+---
+- **湖南大学环境学院**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Hunan%20University/DSC01047.JPG)
