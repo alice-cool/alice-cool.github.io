@@ -1,12 +1,39 @@
-- **实验室**
-![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Hunan%20University/2023-01-05-1.jpeg)
+- **UPitt**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00616.JPG)
 ---
-- **湖南大学大礼堂**
-![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Hunan%20University/2023-01-05-2.jpeg)
+- **UPitt**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00618.JPG)
 ---
-- **岳麓书院**
-![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Hunan%20University/2023-01-05-3.jpeg)
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00615.JPG)
 ---
-- **湖南大学二院楼**
-![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Hunan%20University/2023-01-05-4.jpeg)
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00628.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00644.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00646.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00647.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00652.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00657.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00660.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00675.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00716.JPG)
+---
+- **Squirrel Hill**
+![image](https://github.com/YurongChen1998/YurongChen1998.github.io/blob/gh-pages/img/Photo/Pittsburgh/DSC00727.JPG)
 ---
