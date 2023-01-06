@@ -53,6 +53,9 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, et al., "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
 
+## Miscellaneous
+- [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
+- [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
 
 ## Study Blog
 - 2022-10-16: The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
@@ -77,7 +80,3 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 - 2021-06-16: The Netwon's Method with [python implementation](https://github.com/YurongChen1998/Newton-s-Method/tree/main).
 - 2021-06-13: The paper talk slides ("[GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-13)").
 - 2021-06-06: The paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
-
-## Miscellaneous
-- [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
-- [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
