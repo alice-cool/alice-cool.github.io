@@ -11,11 +11,13 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement_, 2022. 
+- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Spectral Compressive Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, accept, 2023 (doi: 10.1109/TPAMI.2023.3265749). 
+
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, vol. 53, no. 4, pp. 2151-2163, 2023. 
+
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement_, 2022 (doi: 10.1109/TIM.2022.3217870). 
 
 - **陈煜嵘**， 王耀南， 张辉， 曹意宏， 刘立柱, "医学高光谱显微成像与智能分析关键技术研究及应用," _人工智能_, 2022.
-
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, Sep. 2021. 
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging_, vol. 40, no. 3, pp. 1032-1041, 2021. 
 
