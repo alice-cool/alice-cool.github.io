@@ -41,6 +41,12 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - 张辉， 张邹铨， **陈煜嵘**， 吴天月， 钟杭， 王耀南, "工业铸件缺陷无损检测技术的应用进展与展望," _自动化学报_, 2022.
 
+- Yihong Cao, Hui Zhang, Xiao Lu, **Yurong Chen**, et al., "Adaptive Refining-Aggregation-Separation Framework for Unsupervised Domain Adaptation Semantic Segmentation," _IEEE Transactions on Circuits and Systems for Video Technology_, 2023.
+
+- Hui Zhang, Junkun Tang, Yihong Cao, **Yurong Chen**, et al.,"Cycle Consistency Based Pseudo Label and Fine Alignment for Unsupervised Domain Adaptation," _IEEE Transactions on Multimedia_, 2022.
+
+- Hui Zhang, Jiaxuan Liu, Tianyue Wu, **Yurong Chen**, et al., "JIANet: Jigsaw-Invariant Self-Supervised Learning of Autoencoder-Based Reconstruction for Melanoma Segmentation," _IEEE Transactions on Instrumentation and Measurement_, 2022.
+
 - Weixing Peng, Yaonan Wang, Hui Zhang, **Yurong Chen**, et al., "Robust Multi-Point-Sets Registration for Free-Form Surface Based on Probability," _IEEE Transactions on Industrial Electronics_, 2022.
 
 - Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Review on the COVID-19 pandemic prevention and control system based on AI," _Engineering Applications of Artificial Intelligence_, 2022.
