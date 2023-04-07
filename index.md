@@ -11,6 +11,8 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 ## Dataset
 - HVAD: Hyperspectral Vaccine Anomaly Detection Dataset [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
+- MVTec AD-C Robustness Benchmark: The Corrupted MVTec Anomaly Detection Dataset [[Link]](
+https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
