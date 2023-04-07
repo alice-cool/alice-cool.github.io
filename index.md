@@ -2,12 +2,9 @@
 
 *"困时切莫间断,熬过此关,便可少进.再进在困,再困再奋,自有亨通精进之日."*  
 
-#### I am now a Ph.D student supervised by Prof. Yaonan Wang ([王耀南](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272)) and Prof. Hui Zhang ([张辉](https://baike.baidu.com/item/%E5%BC%A0%E8%BE%89/54075504?fromModule=search-result_lemma)) at Hunan University. My research interests include hyperspectral computational imaging, statistical machine learning (高光谱计算成像与机器学习算法).
+#### I am now a Ph.D student supervised by Prof. Yaonan Wang ([王耀南](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272)) and Prof. Hui Zhang ([张辉](https://baike.baidu.com/item/%E5%BC%A0%E8%BE%89/54075504?fromModule=search-result_lemma)) at Hunan University. My research interests include hyperspectral computational imaging, statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with a M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
-Previously, I graduated with a M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
-
-## Contact Me
-- Email: chenyurong1998 AT outlook.com
+Contact me Email: chenyurong1998 AT outlook.com
 
 ## Dataset
 - HVAD: Hyperspectral Vaccine Anomaly Detection Dataset [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
