@@ -45,19 +45,17 @@ Previously, I graduated with a M.S. degree in ECE from the University of Pittsbu
 
 - Hui Zhang, Junkun Tang, Yihong Cao, **Yurong Chen**, et al.,"Cycle Consistency Based Pseudo Label and Fine Alignment for Unsupervised Domain Adaptation," _IEEE Transactions on Multimedia_, 2022.
 
-- Hui Zhang, Jiaxuan Liu, Tianyue Wu, **Yurong Chen**, et al., "JIANet: Jigsaw-Invariant Self-Supervised Learning of Autoencoder-Based Reconstruction for Melanoma Segmentation," _IEEE Transactions on Instrumentation and Measurement_, 2022.
-
 - Weixing Peng, Yaonan Wang, Hui Zhang, **Yurong Chen**, et al., "Robust Multi-Point-Sets Registration for Free-Form Surface Based on Probability," _IEEE Transactions on Industrial Electronics_, 2022.
 
 - Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Review on the COVID-19 pandemic prevention and control system based on AI," _Engineering Applications of Artificial Intelligence_, 2022.
 
 - Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention," _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2022.
 
-- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, et al., "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, 2021.
-
-- Hui Zhang, Jiaxuan Liu, Tianyue Wu, **Yurong Chen**, et al., "JIANet: Jigsaw-Invariant Self-supervised Learning of Auto-encoder Based Reconstruction for Melanoma Segmentation,"  _IEEE Transactions on Instrumentation & Measurement_, 2022.
-
 - Xuesan Su, Yaonan Wang, Jianxu Mao, **Yurong Chen**, et al., "A Review of Pharmaceutical Robot based on Hyperspectral Technology," _Journal of Intelligent & Robotic Systems_, 2022.
+
+- Hui Zhang, Jiaxuan Liu, Tianyue Wu, **Yurong Chen**, et al., "JIANet: Jigsaw-Invariant Self-Supervised Learning of Autoencoder-Based Reconstruction for Melanoma Segmentation," _IEEE Transactions on Instrumentation and Measurement_, 2022.
+
+- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, et al., "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement_, 2021.
 
 - Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, et al., "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
 
