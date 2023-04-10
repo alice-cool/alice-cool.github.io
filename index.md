@@ -13,11 +13,11 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Spectral Compressive Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, accept, 2023 (doi: 10.1109/TPAMI.2023.3265749) [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging). 
+- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Spectral Compressive Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, accept, 2023 (doi: 10.1109/TPAMI.2023.3265749). [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, vol. 53, no. 4, pp. 2151-2163, 2023. 
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement_, 2022 (doi: 10.1109/TIM.2022.3217870) [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/PSPNet_SWAE). 
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement_, 2022 (doi: 10.1109/TIM.2022.3217870). [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/PSPNet_SWAE) 
 
 - **陈煜嵘**， 王耀南， 张辉， 曹意宏， 刘立柱, "医学高光谱显微成像与智能分析关键技术研究及应用," _人工智能_, 2022.
 
@@ -25,7 +25,7 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 
 - **Yurong Chen**, "Projected Sliced Wasserstein Autoencoder-based Hyperspectral Images Anomaly Detection," _arxiv:2112.11243_, 2021.
 
-- **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021. [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/P-WAE)
+- **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021 [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/P-WAE).
 
 - **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020. 
 
