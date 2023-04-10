@@ -25,7 +25,7 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 
 - **Yurong Chen**, "Projected Sliced Wasserstein Autoencoder-based Hyperspectral Images Anomaly Detection," _arxiv:2112.11243_, 2021.
 
-- **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021 [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/P-WAE).
+- **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021. [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/P-WAE)
 
 - **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020. 
 
