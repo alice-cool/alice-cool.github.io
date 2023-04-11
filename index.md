@@ -13,7 +13,7 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Spectral Compressive Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, accept, 2023 (doi: 10.1109/TPAMI.2023.3265749). [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
+- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Spectral Compressive Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2023 (doi: 10.1109/TPAMI.2023.3265749). [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics_, vol. 53, no. 4, pp. 2151-2163, 2023. 
 
