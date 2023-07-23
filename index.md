@@ -1,8 +1,8 @@
-## Welcome to Yurong Chen' Homepage 陈煜嵘
+## Welcome to Yurong Chen's Homepage 陈煜嵘
 
 *"困时切莫间断,熬过此关,便可少进.再进在困,再困再奋,自有亨通精进之日."*  
 
-#### I am now a Ph.D student supervised by Prof. Yaonan Wang ([王耀南](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272)) and Prof. Hui Zhang ([张辉](https://baike.baidu.com/item/%E5%BC%A0%E8%BE%89/54075504?fromModule=search-result_lemma)) at Hunan University. My research interests include hyperspectral computational imaging, statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with a M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
+#### I am now a Ph.D. student supervised by Prof. Yaonan Wang ([王耀南](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272)) and Prof. Hui Zhang ([张辉](https://baike.baidu.com/item/%E5%BC%A0%E8%BE%89/54075504?fromModule=search-result_lemma)) at Hunan University. My research interests include hyperspectral computational imaging, and statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with the M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
 Contact me Email: chenyurong1998 AT outlook.com
 
@@ -79,12 +79,12 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 - 2021-10-19: The implementation of the Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
 - 2021-10-17: The implementation of the Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
 - 2021-10-16: The implementation of the Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
-- 2021-10-11: I published [seven hyperspectral anoamly detection datasets of vaccine](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset).
+- 2021-10-11: I published [seven hyperspectral anomaly detection datasets of vaccine](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset).
 - 2021-10-11: The paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
 - 2021-08-25: The [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
 - 2021-08-23: The [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
 - 2021-08-23: The [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
-- 2021-08-09: The [Hilbert Schmidt Indepence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
+- 2021-08-09: The [Hilbert Schmidt Independence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
 - 2021-08-05: The implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
 - 2021-06-19: The [Naive Bayes](https://blog.csdn.net/weixin_43120238/article/details/118058815) with [python implementation](https://github.com/YurongChen1998/naive-bayes-classifier/tree/main).
 - 2021-06-16: The Netwon's Method with [python implementation](https://github.com/YurongChen1998/Newton-s-Method/tree/main).
