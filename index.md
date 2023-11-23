@@ -63,6 +63,10 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 
 - Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, et al., "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
 
+- Bingrui Zhao, Yaonan Wang, Hui Zhang, Jinzhou Zhang, **Yurong Chen**, et al., "4-bit CNN quantization method with compact LUT-Based Multiplier implementation on FPGA," _IEEE Transactions on Instrumentation and Measurement_, vol. 72, pp. 1-10, 2023.
+
+- Bingrui Zhao, Hui Zhang, Yaonan Wang, Yiming Jiang, **Yurong Chen**, et al., "Unleashing the Potential of On-Chip AI-Powered Hyperspectral Hardware Computing—A Tutorial," _IEEE Transactions on Circuits and Systems II: Express Briefs_, 2023.
+
 ## Miscellaneous
 - [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
