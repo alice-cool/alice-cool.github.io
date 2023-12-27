@@ -15,7 +15,7 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
 - **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Compressive Spectral Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPMAI)_, vol. 45, no. 9, pp. 11096-11107, 2023. [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, 2023. [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration) 
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, Accepted, 2023. [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration) 
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "ADMM-DSP: A Deep Spectral Image Prior for Snapshot Spectral Image Demosaicing," _IEEE Transactions on Industrial Informatics (TII)_, 2023 (doi: 10.1109/TII.2023.3329674). 
 
