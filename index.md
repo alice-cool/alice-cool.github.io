@@ -19,7 +19,7 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 - **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Cross-modal Multiple Granularity Interactive Fusion Network for Long Document Classification," _ACM Transactions on Knowledge Discovery from Data (TKDD)_, 2024. [[PDF]](https://dl.acm.org/doi/10.1145/3631711)
 
-- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Multi-modal Long Document Classification based on Hierarchical Prompt and Multi-modal Transformer," _Neural Networks (NN)_, 2024. [[PDF]] (https://dl.acm.org/doi/10.1145/3631711](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002466)
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Multi-modal Long Document Classification based on Hierarchical Prompt and Multi-modal Transformer," _Neural Networks (NN)_, 2024. [[PDF]](https://dl.acm.org/doi/10.1145/3631711)
 
 - **Tengfei Liu**, Yongli Hu, Boyue Wang, et al, "Hierarchical Graph Convolutional Networks for Structured Long Document Classification," _IEEE Transactions on Neural Networks and Learning System (TNNLS)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9810897)
 
