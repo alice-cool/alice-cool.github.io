@@ -1,8 +1,8 @@
 ## Welcome to Tengfei Liu's Homepage 刘腾飞
 
-*"困时切莫间断,熬过此关,便可少进.再进在困,再困再奋,自有亨通精进之日."*  
+*"行路有艰辛，唯有不懈努力；攀登有险阻，唯有勇往直前."*  
 
-#### I am now a Ph.D. student supervised by Prof. [Yaonan Wang](https://ieeexplore.ieee.org/author/37281429000) ([王耀南](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272)) and Prof. [Hui Zhang](https://ieeexplore.ieee.org/author/37657010100) ([张辉](https://baike.baidu.com/item/%E5%BC%A0%E8%BE%89/54075504?fromModule=search-result_lemma)) at Hunan University （湖南大学）. My research interests include hyperspectral computational imaging, and statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with the M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
+#### I am now a Ph.D. student supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) ([胡永利]) at Beijing University of Technology（北京工业大学）.  My research interests include hyperspectral computational imaging, and statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with the M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
 Contact me Email: chenyurong1998 AT outlook.com
 
