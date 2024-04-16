@@ -8,7 +8,7 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 ## Dataset
 - Hierarchical Graph Convolutional Network for Structured Long Document Classification[[Link]](https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa)
-- Multi-modal Long Document Classification Datasets [[Link]](https://github.com/YurongChen1998/MVTec-AD-C)
+- Hierarchical Multi-modal Prompt Transformer for Multi-modal Long Document Classification [[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
