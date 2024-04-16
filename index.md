@@ -7,7 +7,8 @@
 Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 ## Dataset
-- HVAD: Hyperspectral Vaccine Anomaly Detection Dataset [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
+- Long Document Classification(LDC)
+  Hierarchical Graph convolutional Network for Structured Long Document Classification [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
 - MVTec AD-C Robustness Benchmark: The Corrupted MVTec Anomaly Detection Dataset [[Link]](
 https://github.com/YurongChen1998/MVTec-AD-C)
 
