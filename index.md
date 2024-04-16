@@ -13,61 +13,23 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
-- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Compressive Spectral Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPMAI)_, vol. 45, no. 9, pp. 11096-11107, 2023. [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
+- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Images Guided Generative Autoencoder Model for Dual-Camera Compressive Spectral Imaging," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10499714/) [[Code]](https://github.com/YurongChen1998/PiE-Dual-Camera-Spectral-Compressive-Imaging)
+  
+- **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Compressive Spectral Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPMAI)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10098166/) [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
+  
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10423584/) [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration)
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, Accepted, 2023. [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration) 
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "ADMM-DSP: A Deep Spectral Image Prior for Snapshot Spectral Image Demosaicing," _IEEE Transactions on Industrial Informatics (TII)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10317811/)
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "ADMM-DSP: A Deep Spectral Image Prior for Snapshot Spectral Image Demosaicing," _IEEE Transactions on Industrial Informatics (TII)_, 2023 (doi: 10.1109/TII.2023.3329674). 
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics (TCyber)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9543537/)
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics (TCyber)_, vol. 53, no. 4, pp. 2151-2163, 2023. 
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement (TIM)_, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9940997/) [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/PSPNet_SWAE) 
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement (TIM)_, 2022 (doi: 10.1109/TIM.2022.3217870). [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/PSPNet_SWAE) 
+- **陈煜嵘**， 王耀南， 张辉，等, "医学高光谱显微成像与智能分析关键技术研究及应用 （综述）," _人工智能_, 2022.
 
-- **陈煜嵘**， 王耀南， 张辉， 曹意宏， 刘立柱, "医学高光谱显微成像与智能分析关键技术研究及应用," _人工智能_, 2022.
+- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging (TMI)_, 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9296333/)
 
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging (TMI)_, vol. 40, no. 3, pp. 1032-1041, 2021. 
-
-- **Yurong Chen**, "Projected Sliced Wasserstein Autoencoder-based Hyperspectral Images Anomaly Detection," _arxiv:2112.11243_, 2021.
-
-- **Yurong Chen**, "P-WAE: Patch-wise Wasserstein Autoencoder for Anomaly Screening," _arXiv:2108.03815_, 2021. [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/P-WAE)
-
-- **Yurong Chen**, "Graph-embedding Enhanced Attention Adversarial Autoencoder," _University of Pittsburgh_, 2020. 
-
-- **Yurong Chen**, Haoteng Tang, Lei Guo, et al., "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020.
-
-- Hui Zhang, **Yurong Chen***, Yanan Song, et al., "Automatic kidney lesion detection for CT images using morphological cascade convolutional neural networks," _IEEE Access_, 2019.
-
-- Jamie C Peven, **Yurong Chen**, Lei Guo, et al., "The oblique effect: The relationship between profiles of visuospatial preference, cognition, and brain connectomics in older adults," _Neuropsychologia_, 2019.
-
-- Hui Zhang, Yanan Song, **Yurong Chen**, et al., "MRSDI-CNN: Multi-Model Rail Surface Defect Inspection System Based on Convolutional Neural Networks," _IEEE Transactions on Intelligent Transportation Systems (TITS)_, 2021.
-
-- Ating Yin, Yaonan Wang, **Yurong Chen**, et al., "SSAPN: Spectral-Spatial Anomaly Perception Network for Unsupervised Vaccine Detection," _IEEE Transactions on Industrial Informatics (TII)_, 2022.
-
-- Hui Zhang, Liuchen Wu, **Yurong Chen**, et al., "Attention-Guided Multitask Convolutional Neural Network for Power Line Parts Detection," _IEEE Transactions on Instrumentation and Measurement (TIM)_, 2022.
-
-- 张辉， 张邹铨， **陈煜嵘**， 吴天月， 钟杭， 王耀南, "工业铸件缺陷无损检测技术的应用进展与展望," _自动化学报_, 2022.
-
-- Yihong Cao, Hui Zhang, Xiao Lu, **Yurong Chen**, et al., "Adaptive Refining-Aggregation-Separation Framework for Unsupervised Domain Adaptation Semantic Segmentation," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2023.
-
-- Hui Zhang, Junkun Tang, Yihong Cao, **Yurong Chen**, et al., "Cycle Consistency Based Pseudo Label and Fine Alignment for Unsupervised Domain Adaptation," _IEEE Transactions on Multimedia (TMM)_, 2022.
-
-- Weixing Peng, Yaonan Wang, Hui Zhang, **Yurong Chen**, et al., "Robust Multi-Point-Sets Registration for Free-Form Surface Based on Probability," _IEEE Transactions on Industrial Electronics (TIE)_, 2022.
-
-- Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Review on the COVID-19 pandemic prevention and control system based on AI," _Engineering Applications of Artificial Intelligence (EAAI)_, 2022.
-
-- Junfei Yi, Hui Zhang, Jianxu Mao, **Yurong Chen**, et al., "Pharmaceutical Foreign Particle Detection: An Efficient Method Based on Adaptive Convolution and Multiscale Attention," _IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)_, 2022.
-
-- Xuesan Su, Yaonan Wang, Jianxu Mao, **Yurong Chen**, et al., "A Review of Pharmaceutical Robot based on Hyperspectral Technology," _Journal of Intelligent & Robotic Systems_, 2022.
-
-- Hui Zhang, Jiaxuan Liu, Tianyue Wu, **Yurong Chen**, et al., "JIANet: Jigsaw-Invariant Self-Supervised Learning of Autoencoder-Based Reconstruction for Melanoma Segmentation," _IEEE Transactions on Instrumentation and Measurement (TIM)_, 2022.
-
-- Hui Zhang, Ruibo Chen, Chen Li,  **Yurong Chen**, et al., "Selective Multi-branch Attention Network with Material Constraint for Baggage Re-identification," _IEEE Transactions on Instrumentation & Measurement (TIM)_, 2021.
-
-- Yanqing Yang, Jianxu Mao, Hui Zhang, **Yurong Chen**, et al., "Semi-supervised Cloud Edge Collaborative Power Transmission Line Insulator Anomaly Detection Framework," _International Conference on Image and Graphics (ICIG)_, pp. 210-221, 2021.
-
-- Bingrui Zhao, Yaonan Wang, Hui Zhang, Jinzhou Zhang, **Yurong Chen**, et al., "4-bit CNN quantization method with compact LUT-Based Multiplier implementation on FPGA," _IEEE Transactions on Instrumentation and Measurement (TIM)_, vol. 72, pp. 1-10, 2023.
-
-- Bingrui Zhao, Hui Zhang, Yaonan Wang, Yiming Jiang, **Yurong Chen**, et al., "Unleashing the Potential of On-Chip AI-Powered Hyperspectral Hardware Computing—A Tutorial," _IEEE Transactions on Circuits and Systems II: Express Briefs_, 2023.
+- **Yurong Chen**, Haoteng Tang, Lei Guo, et al., "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9098552/)
 
 ## Miscellaneous
 - [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
