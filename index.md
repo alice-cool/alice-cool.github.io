@@ -2,7 +2,7 @@
 
 *"行路有艰辛，唯有不懈努力；攀登有险阻，唯有勇往直前."*  
 
-#### I am now a Ph.D. student supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) ([胡永利]) at Beijing University of Technology（北京工业大学）.  My research interests include hyperspectral computational imaging, and statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with the M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
+#### I am now a Ph.D. student supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) [胡永利] at Beijing University of Technology（北京工业大学）.  My research interests include hyperspectral computational imaging, and statistical machine learning (高光谱计算成像与机器学习算法). Previously, I graduated with the M.S. degree in ECE from the University of Pittsburgh (UPitt) in 2020.
 
 Contact me Email: chenyurong1998 AT outlook.com
 
