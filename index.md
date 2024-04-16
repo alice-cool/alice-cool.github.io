@@ -23,11 +23,10 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 - **Tengfei Liu**, Yongli Hu, Boyue Wang, et al, "Hierarchical Graph Convolutional Networks for Structured Long Document Classification," _IEEE Transactions on Neural Networks and Learning System (TNNLS)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9810897)
 
-- **Tengfei Liu**, Yongli Hu, Boyue Wang, et al, "Hierarchical Graph Convolutional Networks for Structured Long Document Classification," _IEEE Transactions on Neural Networks and Learning System (TNNLS)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9810897)
+- **Tengfei Liu**, Yongli Hu, Pumann Chen, et al, "Zero-shot Text Classification with Semantically Extended Text Entailment," _In Proceedings of International Joint Conference on Neural Network (IJCNN)_, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9411914)
 
-- **Tengfei Liu**, Yongli Hu, Pumann Chen, et al, "Zero-shot Text Classification with Semantically Extended Graph Convolutional Network," _In Proceedings of International Joint Conference on Neural Network (IJCNN)_, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9411914)
-
-  
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Zero-shot Text Classification with Semantically Extended Graph Convolutional Network," _In Proceedings of International Conference on Pattern Recognition (ICPR)_, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9411914)
+- 
 ## Study Blog
 - The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
 - The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
