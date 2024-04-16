@@ -30,24 +30,20 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 - **Yurong Chen**, Haoteng Tang, Lei Guo, et al., "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9098552/)
 
-## Miscellaneous
-- [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
-- [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
-
-## Study Blog
-- The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
-- The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
-- The implementation of the Supervised PCA: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Supervised%20PCA).
-- The implementation of the Spectral Cluster: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Spectral%20Cluster).
-- The implementation of the Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
-- The implementation of the MDS and the Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
-- The implementation of Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/pca)).
-- The implementation of the Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
-- The implementation of the Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
-- The implementation of the Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
-- The implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
-- The understanding of the [VAE](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx).
-- The understanding of the [Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
-- The understanding of the [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
-- The understanding of the [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
-- The understanding of the [Hilbert Schmidt Independence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
+%## Study Blog
+%- The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
+%- The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
+%- The implementation of the Supervised PCA: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Supervised%20PCA).
+%- The implementation of the Spectral Cluster: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Spectral%20Cluster).
+%- The implementation of the Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
+%- The implementation of the MDS and the Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
+%- The implementation of Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-%lib/tree/main/Machine_Learning_Algorithms/pca)).
+%- The implementation of the Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
+%- The implementation of the Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-%lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
+%- The implementation of the Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-%lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
+%- The implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
+%- The understanding of the [VAE](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx).
+%- The understanding of the [Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
+%- The understanding of the [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
+%- The understanding of the [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
+%- The understanding of the [Hilbert Schmidt Independence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-%lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
