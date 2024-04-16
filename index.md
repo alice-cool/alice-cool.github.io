@@ -27,6 +27,8 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 - **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Zero-shot Text Classification with Semantically Extended Graph Convolutional Network," _In Proceedings of International Conference on Pattern Recognition (ICPR)_, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9411914)
 
+- Jiapu Wang, Boyue Wang, ..., **Tengfei Liu**, Baocai Yin, Wen Gao, "MADE: Multi-curvature ADaptive Embedding for Temporal Knowledge Graph Completion," _IEEE Transactions on Cybernetics (TCYB)_, 2024. 
+- 
 - Libo Fu, Rujian Wei, ..., **Tengfei Liu**, et al, "In Situ Atomic-scale Observation of AuCu alloy Nanowire with Superplasticity and High Strength at Room Temperature," _Materials Today Nano_, 2021. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2588842021000158)
   
 ## Study Blog
