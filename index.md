@@ -26,7 +26,9 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 - **Tengfei Liu**, Yongli Hu, Pumann Chen, et al, "Zero-shot Text Classification with Semantically Extended Text Entailment," _In Proceedings of International Joint Conference on Neural Network (IJCNN)_, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9411914)
 
 - **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Zero-shot Text Classification with Semantically Extended Graph Convolutional Network," _In Proceedings of International Conference on Pattern Recognition (ICPR)_, 2021. [[PDF]](https://ieeexplore.ieee.org/document/9411914)
-- 
+
+- Libo Fu, Rujian Wei, ..., **Tengfei Liu**, et al, "In Situ Atomic-scale Observation of AuCu alloy Nanowire with Superplasticity and High Strength at Room Temperature," _Materials Today Nano_, 2021. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2588842021000158)
+  
 ## Study Blog
 - The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
 - The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
