@@ -7,7 +7,7 @@
 Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 ## Dataset
-- Long Document Classification Datasets(LDC)[[Link]](https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa)
+- Hierarchical Graph Convolutional Network for Structured Long Document Classification[[Link]](https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa)
 - Multi-modal Long Document Classification Datasets [[Link]](https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
