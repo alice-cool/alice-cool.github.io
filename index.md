@@ -13,10 +13,16 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&tzom=-600&user=Xt4l3tEAAAAJ)
 
-- **Tengfei Liu**, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin, "Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10439279/)
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10439279/)
  
-- **Tengfei Liu**, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin, "Hierarchical Multi-granularity Interaction Graph Convolutional Network for Long Document Classification," _IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10452857)
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Hierarchical Multi-granularity Interaction Graph Convolutional Network for Long Document Classification," _IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10452857)
 
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Cross-modal Multiple Granularity Interactive Fusion Network for Long Document Classification," _ACM Transactions on Knowledge Discovery from Data (TKDD)_, 2024. [[PDF]](https://dl.acm.org/doi/10.1145/3631711)
+
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, et al, "Multi-modal Long Document Classification based on Hierarchical Prompt and Multi-modal Transformer," _Neural Networks (NN)_, 2024.
+
+- **Tengfei Liu**, Yongli Hu, Boyue Wang, et al, "Hierarchical Graph Convolutional Networks for Structured Long Document Classification," _IEEE Transactions on Neural Networks and Learning System (TNNLS)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9810897)
+- 
 ## Study Blog
 - The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
 - The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
