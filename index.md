@@ -14,7 +14,9 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&tzom=-600&user=Xt4l3tEAAAAJ)
 
 - **Tengfei Liu**, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin, "Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10439279/)
-  
+
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin, "Hierarchical Multi-granularity Interaction Graph Convolutional network for Long Document Classification," _IEEE/ACM Transactions on Audio, Speech and Language Processing (TALSP)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10452857)
+
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10423584/) [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration)
 
 - **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "ADMM-DSP: A Deep Spectral Image Prior for Snapshot Spectral Image Demosaicing," _IEEE Transactions on Industrial Informatics (TII)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10317811/)
