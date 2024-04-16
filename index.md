@@ -7,10 +7,8 @@
 Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 ## Dataset
-- Long Document Classification(LDC)
-  Hierarchical Graph convolutional Network for Structured Long Document Classification [[Link]](https://github.com/YurongChen1998/Hunan-University-Hyperspectral-Image-Dataset)
-- MVTec AD-C Robustness Benchmark: The Corrupted MVTec Anomaly Detection Dataset [[Link]](
-https://github.com/YurongChen1998/MVTec-AD-C)
+- Long Document Classification Datasets(LDC)[[Link]]([https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa])
+- Multi-modal Long Document Classification Datasets [[Link]](https://github.com/YurongChen1998/MVTec-AD-C)
 
 ## Publications
 [Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
