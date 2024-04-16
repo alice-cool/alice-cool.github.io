@@ -34,30 +34,21 @@ https://github.com/YurongChen1998/MVTec-AD-C)
 ## Miscellaneous
 - [Photograph](https://github.com/YurongChen1998/YurongChen1998.github.io/tree/gh-pages/img/Photo)
 - [《归国杂记》](https://mp.weixin.qq.com/s/QwgqeyRPMrYuW-8vS5j9Tw)
-- ["Computational Photography: What is It and Why Does It Matter?"](https://petapixel.com/computational-photography/)
-- ["A complete lensless imaging tutorial - hardware, software and algorithms"](https://medium.com/@bezzam/a-complete-lensless-imaging-tutorial-hardware-software-and-algorithms-8873fa81a660)
-- ["Hyperspectral Imaging Is Conquering the Industry"](https://www.wileyindustrynews.com/en/news/hyperspectral-imaging-conquering-industry)
 
 ## Study Blog
-- 2022-10-16: The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
-- 2022-02-18: The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
-- 2022-02-18: The implementation of the Supervised PCA: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Supervised%20PCA).
-- 2022-02-01: The implementation of the Spectral Cluster: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Spectral%20Cluster).
-- 2022-01-29: The implementation of the Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
-- 2022-01-26: The implementation of the MDS and the Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
-- 2022-01-21: Talk about the PCA, Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/pca)).
-- 2021-10-21: The paper talk the Learned Robust PCA ([video](https://www.bilibili.com/video/BV1Xq4y1d78f?share_source=copy_web), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-20-Learned%20Robust%20PCA.pptx)).
-- 2021-10-19: The implementation of the Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
-- 2021-10-17: The implementation of the Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
-- 2021-10-16: The implementation of the Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
-- 2021-10-11: I published [seven hyperspectral anomaly detection datasets of vaccine](https://github.com/YurongChen1998/HVAD-Hyperspectral-Vaccine-Anomaly-Detection-dataset).
-- 2021-10-11: The paper talk Understanding the VAE ([video](https://www.bilibili.com/video/BV1Rr4y127Rv?spm_id_from=333.999.0.0), [slides](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx)).
-- 2021-08-25: The [Understanding the Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
-- 2021-08-23: The [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
-- 2021-08-23: The [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
-- 2021-08-09: The [Hilbert Schmidt Independence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
-- 2021-08-05: The implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
-- 2021-06-19: The [Naive Bayes](https://blog.csdn.net/weixin_43120238/article/details/118058815) with [python implementation](https://github.com/YurongChen1998/naive-bayes-classifier/tree/main).
-- 2021-06-16: The Netwon's Method with [python implementation](https://github.com/YurongChen1998/Newton-s-Method/tree/main).
-- 2021-06-13: The paper talk slides ("[GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-13)").
-- 2021-06-06: The paper talk slides ("[Maximum Density Divergence for Domain Adaptation](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/tree/main/2021-06-06)").
+- The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
+- The implementation of the Nystrom Approximation: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Nystrom%20Approximation).
+- The implementation of the Supervised PCA: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Supervised%20PCA).
+- The implementation of the Spectral Cluster: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Spectral%20Cluster).
+- The implementation of the Locally Linear Embedding (LLE): [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/LLE).
+- The implementation of the MDS and the Isomap: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/MDS_Isomap).
+- The implementation of Dual PCA, and Kernel PCA ([video](https://www.bilibili.com/video/BV1UR4y1M7bH?share_source=copy_web), [code](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/pca)).
+- The implementation of the Robust PCA: [python](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/robust_pca.py).
+- The implementation of the Principal Component Analysis (PCA) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/princal_component_analysis.m).
+- The implementation of the Singular Value Decomposition (SVD) with eig() function: [matlab](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/singular_value_decomposition.m).
+- The implementation of [Covariance and Correlation](https://github.com/YurongChen1998/yurong-lib/blob/main/Machine_Learning_Algorithms/Covariance_Correlation.py).
+- The understanding of the [VAE](https://github.com/YurongChen1998/Yurong-Paper-Talk-Slides/blob/main/2021-10-09/2021-10-07-VAE.pptx).
+- The understanding of the [Evidence Lower Bound](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Understanding%20the%20Evidence%20Lower%20Bound.pdf).
+- The understanding of the [Gaussian Discriminant Analysis](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Gaussian%20Discriminant%20Analysis.pdf).
+- The understanding of the [Genetic Programming in Hyperspectral Images](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Genetic%20Programming%20in%20Hyperspectral%20Images.pdf).
+- The understanding of the [Hilbert Schmidt Independence Criterion in Machine Learning](https://github.com/YurongChen1998/yurong-lib/blob/main/Essays/Hilbert%20Schmidt%20Independence%20Criterion%20in%20Machine%20Learning.pdf).
