@@ -15,19 +15,7 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 
 - **Tengfei Liu**, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin, "Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10439279/)
  
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "Flex-DLD: Deep Low-rank Decomposition Model with Flexible Priors for Hyperspectral Image Denoising and Restoration," _IEEE Transactions on Image Processing (TIP)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10423584/) [[Code]](https://github.com/YurongChen1998/Flex-DLD-for-HSIs-Denoising-and-Restoration)
-
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "ADMM-DSP: A Deep Spectral Image Prior for Snapshot Spectral Image Demosaicing," _IEEE Transactions on Industrial Informatics (TII)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10317811/)
-
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "D-BIN: A Generalized Disentangling Batch Instance Normalization for Domain Adaptation," _IEEE Transactions on Cybernetics (TCyber)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9543537/)
-
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network," _IEEE Transactions on Instrumentation and Measurement (TIM)_, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9940997/) [[Code]](https://github.com/YurongChen1998/yurong-lib/tree/main/pytorch/PSPNet_SWAE) 
-
-- **陈煜嵘**， 王耀南， 张辉，等, "医学高光谱显微成像与智能分析关键技术研究及应用 （综述）," _人工智能_, 2022.
-
-- **Yurong Chen**, Hui Zhang, Yaonan Wang, et al., "MAMA Net: Multi-scale Attention Memory Autoencoder Network for Anomaly Detection," _IEEE Transactions on Medical Imaging (TMI)_, 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9296333/)
-
-- **Yurong Chen**, Haoteng Tang, Lei Guo, et al., "A Generalized Framework of Pathlength Associated Community Estimation for Brain Structural Network," _IEEE 17th International Symposium on Biomedical Imaging (ISBI)_, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9098552/)
+- **Tengfei Liu**, Yongli Hu, Junbin Gao, Yanfeng Sun, Baocai Yin, "Hierarchical Multi-granularity Interaction Graph Convolutional Network for Long Document Classification," _IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)_, 2024. [[PDF]](https://ieeexplore.ieee.org/document/10452857)
 
 ## Study Blog
 - The implementation of the Total Variation Denoising: [matlab](https://github.com/YurongChen1998/yurong-lib/tree/main/Machine_Learning_Algorithms/Total_Variation_Denoising_MM).
