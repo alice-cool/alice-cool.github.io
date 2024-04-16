@@ -11,7 +11,7 @@ Contact me Email: Tengfei.Liu0821@outlook.com, tfliu@emails.bjut.edu.cn
 - Hierarchical Multi-modal Prompt Transformer for Multi-modal Long Document Classification [[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
 ## Publications
-[Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-HuRr-EAAAAJ)
+[Gooogle Scholar](https://scholar.google.com/citations?hl=zh-CN&tzom=-600&user=Xt4l3tEAAAAJ)
 - **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Images Guided Generative Autoencoder Model for Dual-Camera Compressive Spectral Imaging," _IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)_, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10499714/) [[Code]](https://github.com/YurongChen1998/PiE-Dual-Camera-Spectral-Compressive-Imaging)
   
 - **Yurong Chen**, Yaonan Wang, Hui Zhang, "Prior Image Guided Snapshot Compressive Spectral Imaging," _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPMAI)_, 2023. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10098166/) [[Code]](https://github.com/YurongChen1998/Prior-Image-Guided-Snapshot-Spectral-Compressive-Imaging) 
